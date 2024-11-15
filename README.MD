@@ -6,7 +6,7 @@ Página para la venta online de pijamas de Verano.
 
 ## INSTALACION
 Clonar el repositoro
-git clone 
+git clone https://github.com/susass01/PrimeraEntrega.git
 
 ## OBSERVACIONES
 Contiene la sección de carrito de compras que aún no está en funcionamiento
